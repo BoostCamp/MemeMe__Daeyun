@@ -13,12 +13,6 @@
     * 두장의 사진을 새로 만들어서 텍스트 뷰 추가 후 전송 
 
 ## 스크린샷
-<img src="" width="280">
-<img src="" width="280">
-<img src="" width="280">
-<img src="" width="280">
-<img src="" width="280">
-<img src="" width="280">
 
 ## Author
 Daeyun Ethan Kim
